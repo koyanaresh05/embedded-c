@@ -1,0 +1,1250 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+                              ./counter.o (atoi)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+                              ./counter.o (strcpy)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+                              ./counter.o (strstr)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+                              ./counter.o (strtok)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o) (__strtok_r)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o) (_strtol_r)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o) (__locale_ctype_ptr_l)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memchr.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o) (memchr)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o) (memcmp)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o) (strchr)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o) (strcmp)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o) (_ctype_)
+/home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                              ./counter.o (GPIOPinTypeUART)
+/home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o) (IntRegister)
+/home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./counter.o (SysCtlPeripheralEnable)
+/home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                              ./counter.o (UARTConfigSetExpClk)
+/home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+                              ./counter.o (__aeabi_i2d)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+                              ./counter.o (__aeabi_d2iz)
+/home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                              /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+value               0x4               ./counter.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./counter.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000000000000280     0x3100
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000000000280        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x0000000000000280       0x40 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000000002c0       0x74 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000000000002c0                _mainCRTStartup
+                0x00000000000002c0                _start
+ .text          0x0000000000000334        0x0 ./counter.o
+ .text          0x0000000000000334        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text          0x0000000000000334        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+ *fill*         0x0000000000000334        0xc 
+ .text          0x0000000000000340       0xa0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memchr.o)
+                0x0000000000000340                memchr
+ .text          0x00000000000003e0        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+ .text          0x00000000000003e0        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+ .text          0x00000000000003e0      0x2dc /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+                0x00000000000003e8                strcmp
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x00000000000006bc        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x00000000000006bc      0x378 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+                0x00000000000006bc                __aeabi_drsub
+                0x00000000000006c4                __aeabi_dsub
+                0x00000000000006c4                __subdf3
+                0x00000000000006c8                __adddf3
+                0x00000000000006c8                __aeabi_dadd
+                0x0000000000000940                __aeabi_ui2d
+                0x0000000000000940                __floatunsidf
+                0x0000000000000960                __floatsidf
+                0x0000000000000960                __aeabi_i2d
+                0x0000000000000984                __extendsfdf2
+                0x0000000000000984                __aeabi_f2d
+                0x00000000000009c8                __aeabi_ul2d
+                0x00000000000009c8                __floatundidf
+                0x00000000000009d8                __floatdidf
+                0x00000000000009d8                __aeabi_l2d
+ .text          0x0000000000000a34       0x50 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000000a34                __fixdfsi
+                0x0000000000000a34                __aeabi_d2iz
+ .text          0x0000000000000a84        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000a84        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x0000000000000a84        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.main     0x0000000000000a84      0x2d4 ./counter.o
+                0x0000000000000a84                main
+ .text.delayMs  0x0000000000000d58       0x64 ./counter.o
+                0x0000000000000d58                delayMs
+ .text.PORTB_Init
+                0x0000000000000dbc       0x64 ./counter.o
+                0x0000000000000dbc                PORTB_Init
+ .text.PORTA_Init
+                0x0000000000000e20       0x50 ./counter.o
+                0x0000000000000e20                PORTA_Init
+ .text.ResetISR
+                0x0000000000000e70       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000e70                ResetISR
+ .text.NmiSR    0x0000000000000edc        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x0000000000000ee2        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000000ee8        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x0000000000000eee        0x2 
+ .text.atoi     0x0000000000000ef0        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+                0x0000000000000ef0                atoi
+ .text._atoi_r  0x0000000000000ef8        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+                0x0000000000000ef8                _atoi_r
+ .text.exit     0x0000000000000f00       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                0x0000000000000f00                exit
+ .text.__libc_init_array
+                0x0000000000000f20       0x48 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                0x0000000000000f20                __libc_init_array
+ .text.memset   0x0000000000000f68       0x94 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                0x0000000000000f68                memset
+ .text.strcpy   0x0000000000000ffc       0xbc /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+                0x0000000000000ffc                strcpy
+ .text.critical_factorization
+                0x00000000000010b8       0xb4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .text.two_way_long_needle
+                0x000000000000116c      0x1f8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .text.strstr   0x0000000000001364      0x1f8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+                0x0000000000001364                strstr
+ .text.strtok   0x000000000000155c       0x10 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+                0x000000000000155c                strtok
+ .text.__strtok_r
+                0x000000000000156c       0x64 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+                0x000000000000156c                __strtok_r
+ .text.strtok_r
+                0x00000000000015d0        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+                0x00000000000015d0                strtok_r
+ .text._strtol_l.isra.0
+                0x00000000000015d8      0x124 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x00000000000016fc       0x24 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+                0x00000000000016fc                _strtol_r
+ .text.strtol_l
+                0x0000000000001720       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+                0x0000000000001720                strtol_l
+ .text.strtol   0x0000000000001740       0x2c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+                0x0000000000001740                strtol
+ .text.startup.register_fini
+                0x000000000000176c       0x14 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000001780       0xe8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000001780                __call_exitprocs
+ .text.atexit   0x0000000000001868        0xc /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                0x0000000000001868                atexit
+ .text.__libc_fini_array
+                0x0000000000001874       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                0x0000000000001874                __libc_fini_array
+ .text._setlocale_r
+                0x00000000000018a8       0x40 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x00000000000018a8                _setlocale_r
+ .text.__locale_mb_cur_max
+                0x00000000000018e8       0x1c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x00000000000018e8                __locale_mb_cur_max
+ .text.__locale_ctype_ptr_l
+                0x0000000000001904        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x0000000000001904                __locale_ctype_ptr_l
+ .text.__locale_ctype_ptr
+                0x000000000000190c       0x1c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x000000000000190c                __locale_ctype_ptr
+ .text.setlocale
+                0x0000000000001928       0x10 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x0000000000001928                setlocale
+ .text.__retarget_lock_init
+                0x0000000000001938        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001938                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x000000000000193c        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x000000000000193c                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000000001940        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001940                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000000001944        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001944                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000000001948        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001948                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x000000000000194c        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x000000000000194c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000000001950        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001950                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000001954        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001954                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000000001958        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000001958                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x000000000000195c        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x000000000000195c                __retarget_lock_release_recursive
+ .text._mbtowc_r
+                0x0000000000001960       0x24 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+                0x0000000000001960                _mbtowc_r
+ .text.__ascii_mbtowc
+                0x0000000000001984       0x2c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+                0x0000000000001984                __ascii_mbtowc
+ .text.memcmp   0x00000000000019b0       0x64 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+                0x00000000000019b0                memcmp
+ .text.strchr   0x0000000000001a14       0xe8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+                0x0000000000001a14                strchr
+ .text._wctomb_r
+                0x0000000000001afc       0x24 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+                0x0000000000001afc                _wctomb_r
+ .text.__ascii_wctomb
+                0x0000000000001b20       0x1c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+                0x0000000000001b20                __ascii_wctomb
+ .text.__register_exitproc
+                0x0000000000001b3c       0xc0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                0x0000000000001b3c                __register_exitproc
+ .text._GPIOIntNumberGet
+                0x0000000000001bfc       0x48 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x0000000000001c44       0x2e /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001c44                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x0000000000001c72       0x24 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001c72                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x0000000000001c96       0x5a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001c96                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x0000000000001cf0       0x4a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001cf0                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x0000000000001d3a      0x130 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001d3a                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x0000000000001e6a       0xc4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001e6a                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x0000000000001f2e        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f2e                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x0000000000001f3a        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f3a                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x0000000000001f48        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f48                GPIOIntStatus
+ .text.GPIOIntClear
+                0x0000000000001f56        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f56                GPIOIntClear
+ .text.GPIOIntRegister
+                0x0000000000001f5c       0x1a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f5c                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x0000000000001f76       0x16 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f76                GPIOIntUnregister
+ .text.GPIOIntRegisterPin
+                0x0000000000001f8c       0x1e /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001f8c                GPIOIntRegisterPin
+ .text.GPIOIntUnregisterPin
+                0x0000000000001faa       0x1a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001faa                GPIOIntUnregisterPin
+ .text.GPIOPinRead
+                0x0000000000001fc4        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001fc4                GPIOPinRead
+ .text.GPIOPinWrite
+                0x0000000000001fca        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001fca                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x0000000000001fd0       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001fd0                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x0000000000001fec       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000001fec                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x0000000000002008       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002008                GPIOPinTypeComparator
+ .text.GPIOPinTypeComparatorOutput
+                0x0000000000002024       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002024                GPIOPinTypeComparatorOutput
+ .text.GPIOPinTypeDIVSCLK
+                0x0000000000002040       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002040                GPIOPinTypeDIVSCLK
+ .text.GPIOPinTypeEPI
+                0x000000000000205c       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000205c                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x0000000000002078       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002078                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x0000000000002094       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002094                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x00000000000020b0       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000020b0                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x00000000000020cc       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000020cc                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000000020e8       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000020e8                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x0000000000002104       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002104                GPIOPinTypeHibernateRTCCLK
+ .text.GPIOPinTypeI2C
+                0x0000000000002120       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002120                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x000000000000213c       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000213c                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x0000000000002158       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002158                GPIOPinTypeLCD
+ .text.GPIOPinTypeOneWire
+                0x0000000000002174       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002174                GPIOPinTypeOneWire
+ .text.GPIOPinTypePWM
+                0x0000000000002190       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002190                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x00000000000021ac       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000021ac                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x00000000000021c8       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000021c8                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x00000000000021e4       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000021e4                GPIOPinTypeTimer
+ .text.GPIOPinTypeTrace
+                0x0000000000002200       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002200                GPIOPinTypeTrace
+ .text.GPIOPinTypeUART
+                0x000000000000221c       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000221c                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x0000000000002238       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002238                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x0000000000002254       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002254                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x0000000000002270       0x1e /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002270                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x000000000000228e       0x1e /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000228e                GPIOPinTypeWakeLow
+ .text.GPIOPinWakeStatus
+                0x00000000000022ac        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000022ac                GPIOPinWakeStatus
+ *fill*         0x00000000000022b2        0x2 
+ .text.GPIOPinConfigure
+                0x00000000000022b4       0x4c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x00000000000022b4                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x0000000000002300        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002300                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x000000000000230c        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000230c                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x000000000000231a        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x000000000000231a                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x0000000000002326        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002326                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x0000000000002334        0x2 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000002336        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002336                IntMasterEnable
+ .text.IntMasterDisable
+                0x0000000000002344        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002344                IntMasterDisable
+ *fill*         0x0000000000002352        0x2 
+ .text.IntRegister
+                0x0000000000002354       0x34 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002354                IntRegister
+ .text.IntUnregister
+                0x0000000000002388       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002388                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x000000000000239c       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x000000000000239c                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x00000000000023b8       0x24 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000023b8                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x00000000000023dc       0x2c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000023dc                IntPrioritySet
+ .text.IntPriorityGet
+                0x0000000000002408       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002408                IntPriorityGet
+ .text.IntEnable
+                0x0000000000002424       0x60 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002424                IntEnable
+ .text.IntDisable
+                0x0000000000002484       0x60 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002484                IntDisable
+ .text.IntIsEnabled
+                0x00000000000024e4       0x64 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000024e4                IntIsEnabled
+ .text.IntPendSet
+                0x0000000000002548       0x50 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002548                IntPendSet
+ .text.IntPendClear
+                0x0000000000002598       0x40 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x0000000000002598                IntPendClear
+ .text.IntPriorityMaskSet
+                0x00000000000025d8        0x4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000025d8                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x00000000000025dc        0x4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000025dc                IntPriorityMaskGet
+ .text.IntTrigger
+                0x00000000000025e0        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+                0x00000000000025e0                IntTrigger
+ .text._SysCtlMemTimingGet
+                0x00000000000025ec       0x24 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x0000000000002610       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002610                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x0000000000002620       0x3c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002620                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x000000000000265c       0x38 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000265c                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x0000000000002694       0x26 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002694                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x00000000000026ba       0x26 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000026ba                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x00000000000026e0       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000026e0                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x0000000000002702       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002702                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x0000000000002724       0x3a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002724                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x000000000000275e       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000275e                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x0000000000002780       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002780                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000000027a2       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000027a2                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000000027c4       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000027c4                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000000027e6       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000027e6                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000002808       0x22 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002808                SysCtlPeripheralDeepSleepDisable
+ *fill*         0x000000000000282a        0x2 
+ .text.SysCtlPeripheralClockGating
+                0x000000000000282c       0x48 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000282c                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x0000000000002874       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002874                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x0000000000002888       0x12 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002888                SysCtlIntUnregister
+ *fill*         0x000000000000289a        0x2 
+ .text.SysCtlIntEnable
+                0x000000000000289c       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000289c                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x00000000000028ac       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028ac                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x00000000000028bc        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028bc                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x00000000000028c8       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028c8                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x00000000000028dc        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028dc                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x00000000000028e8        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028e8                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x00000000000028f4        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000028f4                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x0000000000002900        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002900                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x000000000000290c        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000290c                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x0000000000002918        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002918                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x0000000000002924       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002924                SysCtlReset
+ .text.SysCtlSleep
+                0x0000000000002934        0x4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002934                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x0000000000002938       0x20 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002938                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x0000000000002958        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002958                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x0000000000002964       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002964                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x0000000000002974        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002974                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x000000000000297c        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x000000000000297c                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000002988       0x48 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002988                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x00000000000029d0        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000029d0                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x00000000000029dc        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000029dc                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x00000000000029e8      0x248 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000029e8                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x0000000000002c30      0x11c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002c30                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x0000000000002d4c      0x12c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002d4c                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000002e78        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002e78                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x0000000000002e84       0x60 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002e84                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x0000000000002ee4       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002ee4                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x0000000000002ef8       0x18 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002ef8                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000002f10       0x18 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f10                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000002f28       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f28                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x0000000000002f44       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f44                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x0000000000002f54       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f54                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x0000000000002f64        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f64                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x0000000000002f70        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f70                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x0000000000002f7c       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f7c                SysCtlVoltageEventClear
+ .text.SysCtlVCOGet
+                0x0000000000002f8c       0x78 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002f8c                SysCtlVCOGet
+ .text.SysCtlNMIStatus
+                0x0000000000003004        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000003004                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x0000000000003010       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000003010                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x0000000000003020       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000003020                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x0000000000003030        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000003030                SysCtlAltClkConfig
+ .text._UARTIntNumberGet
+                0x000000000000303c       0x44 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000003080        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003080                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x000000000000308c        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000308c                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x0000000000003094        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003094                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x000000000000309a       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000309a                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x00000000000030aa       0x28 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000030aa                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x00000000000030d2       0x16 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000030d2                UARTEnable
+ .text.UARTDisable
+                0x00000000000030e8       0x1c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000030e8                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x0000000000003104       0x48 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003104                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x000000000000314c        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000314c                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x0000000000003156        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003156                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x0000000000003160       0x12 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003160                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x0000000000003172        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003172                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x000000000000317c       0x16 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000317c                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x0000000000003192        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003192                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x000000000000319c        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000319c                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x00000000000031a8        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031a8                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x00000000000031b6        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031b6                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x00000000000031be        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031be                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x00000000000031c8        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031c8                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x00000000000031d4        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031d4                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x00000000000031dc        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031dc                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x00000000000031e8        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031e8                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x00000000000031f0        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031f0                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x00000000000031fc        0xc /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000031fc                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x0000000000003208        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003208                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x0000000000003216        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003216                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x0000000000003220       0x10 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003220                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x0000000000003230        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003230                UARTCharPut
+ .text.UARTBreakCtl
+                0x000000000000323a       0x16 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000323a                UARTBreakCtl
+ .text.UARTBusy
+                0x0000000000003250        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003250                UARTBusy
+ .text.UARTIntRegister
+                0x0000000000003258       0x1a /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003258                UARTIntRegister
+ .text.UARTIntUnregister
+                0x0000000000003272       0x16 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003272                UARTIntUnregister
+ .text.UARTIntEnable
+                0x0000000000003288        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003288                UARTIntEnable
+ .text.UARTIntDisable
+                0x0000000000003290        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003290                UARTIntDisable
+ .text.UARTIntStatus
+                0x000000000000329a        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x000000000000329a                UARTIntStatus
+ .text.UARTIntClear
+                0x00000000000032a4        0x4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032a4                UARTIntClear
+ .text.UARTDMAEnable
+                0x00000000000032a8        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032a8                UARTDMAEnable
+ .text.UARTDMADisable
+                0x00000000000032b0        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032b0                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x00000000000032ba        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032ba                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x00000000000032c2        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032c2                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x00000000000032c8        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032c8                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x00000000000032ce        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032ce                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x00000000000032d4        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032d4                UART9BitEnable
+ .text.UART9BitDisable
+                0x00000000000032e2        0xe /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032e2                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x00000000000032f0        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032f0                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x00000000000032fa       0x2c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x00000000000032fa                UART9BitAddrSend
+ .text.UARTLoopbackEnable
+                0x0000000000003326        0xa /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+                0x0000000000003326                UARTLoopbackEnable
+ .text.CPUcpsid
+                0x0000000000003330        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000003330                CPUcpsid
+ .text.CPUprimask
+                0x0000000000003338        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000003338                CPUprimask
+ .text.CPUcpsie
+                0x000000000000333e        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x000000000000333e                CPUcpsie
+ .text.CPUwfi   0x0000000000003346        0x4 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000003346                CPUwfi
+ .text.CPUbasepriSet
+                0x000000000000334a        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x000000000000334a                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x0000000000003350        0x6 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+                0x0000000000003350                CPUbasepriGet
+ *fill*         0x0000000000003356        0x2 
+ .text._exit    0x0000000000003358        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+                0x0000000000003358                _exit
+                0x000000000000335c                . = ALIGN (0x4)
+ *(.ctors)
+                0x000000000000335c                . = ALIGN (0x4)
+ *(.dtors)
+                0x000000000000335c                . = ALIGN (0x4)
+                0x000000000000335c                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x000000000000335c        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x0000000000003360        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000003364                __init_array_end = .
+ *(.init)
+ .init          0x0000000000003364        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000003364                _init
+ .init          0x0000000000003368        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x0000000000003370        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000003370                _fini
+ .fini_array    0x0000000000003374        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x0000000000003378        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.glue_7         0x0000000000003380        0x0
+ .glue_7        0x0000000000003380        0x0 linker stubs
+
+.glue_7t        0x0000000000003380        0x0
+ .glue_7t       0x0000000000003380        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000003380        0x0
+ .vfp11_veneer  0x0000000000003380        0x0 linker stubs
+
+.v4_bx          0x0000000000003380        0x0
+ .v4_bx         0x0000000000003380        0x0 linker stubs
+
+.iplt           0x0000000000003380        0x0
+ .iplt          0x0000000000003380        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x0000000000003380      0x764
+ *(.rodata)
+ .rodata        0x0000000000003380       0x3e ./counter.o
+ *(.rodata*)
+ *fill*         0x00000000000033be        0x2 
+ .rodata._global_impure_ptr
+                0x00000000000033c0        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x00000000000033c0                _global_impure_ptr
+ .rodata._setlocale_r.str1.4
+                0x00000000000033c4        0xd /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ *fill*         0x00000000000033d1        0x3 
+ .rodata.str1.4
+                0x00000000000033d4        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                                          0x2 (size before relaxing)
+ .rodata._ctype_
+                0x00000000000033d8      0x101 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+                0x00000000000033d8                _ctype_
+ *fill*         0x00000000000034d9        0x3 
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00000000000034dc       0xd8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x00000000000035b4       0x90 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x0000000000003644       0xc0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pui32Priority
+                0x0000000000003704       0x20 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x0000000000003724       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x0000000000003738       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x000000000000374c       0x9c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x00000000000037e8       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00000000000037fc       0x14 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x0000000000003810      0x1b0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x00000000000039c0        0x8 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x00000000000039c8       0x30 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x00000000000039f8       0x6c /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppui32UARTIntMap
+                0x0000000000003a64       0x40 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x0000000000003aa4       0x40 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+
+.eh_frame       0x0000000000003ae4        0x4
+ .eh_frame      0x0000000000003ae4        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x0000000000003ae4        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.data           0x0000000020000000      0x5a0 load address 0x0000000000003ae8
+                0x0000000000003ae8                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000020000000        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000020000004        0x0 ./counter.o
+ .data          0x0000000020000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memchr.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000020000004        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x0000000020000004        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x0000000020000004                _impure_ptr
+ .data.impure_data
+                0x0000000020000008      0x428 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000430        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000430                __atexit_recursive_mutex
+ .data.__global_locale
+                0x0000000020000434      0x16c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x0000000020000434                __global_locale
+                0x00000000200005a0                . = ALIGN (0x4)
+                0x00000000200005a0                __data_end__ = .
+
+.igot.plt       0x00000000200005a0        0x0 load address 0x0000000000004088
+ .igot.plt      0x00000000200005a0        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+vtable          0x0000000020000800      0x400 load address 0x0000000000004088
+ vtable         0x0000000020000800      0x400 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+
+.ARM.exidx      0x0000000000004488        0x8
+                0x0000000000004488                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000004488        0x8 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x0000000000004490                __exidx_end = .
+
+.ARM.extab      0x0000000000004490        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000004490        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+
+.rel.dyn        0x0000000000004490        0x0
+ .rel.iplt      0x0000000000004490        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x0000000020000c00      0x24c
+                0x0000000020000c00                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020000c00        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000020000c00       0x1c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000020000c1c        0x0 ./counter.o
+ .bss           0x0000000020000c1c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memchr.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000020000c1c        0x0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.flag      0x0000000020000c1c        0x4 ./counter.o
+                0x0000000020000c1c                flag
+ .bss.pui32Stack
+                0x0000000020000c20      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss._PathLocale
+                0x0000000020000e20        0x4 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+                0x0000000020000e20                _PathLocale
+ *(COMMON)
+ COMMON         0x0000000020000e24        0x4 ./counter.o
+                0x0000000020000e24                value
+ COMMON         0x0000000020000e28       0x21 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000020000e28                __lock___atexit_recursive_mutex
+                0x0000000020000e2c                __lock___arc4random_mutex
+                0x0000000020000e30                __lock___env_recursive_mutex
+                0x0000000020000e34                __lock___sinit_recursive_mutex
+                0x0000000020000e38                __lock___malloc_recursive_mutex
+                0x0000000020000e3c                __lock___at_quick_exit_mutex
+                0x0000000020000e40                __lock___dd_hash_mutex
+                0x0000000020000e44                __lock___tz_mutex
+                0x0000000020000e48                __lock___sfp_recursive_mutex
+                0x0000000020000e4c                . = ALIGN (0x4)
+ *fill*         0x0000000020000e49        0x3 
+                0x0000000020000e4c                __bss_end__ = .
+
+.heap           0x0000000020000e4c        0x0
+                0x0000000020000e4c                __heap_start__ = .
+                0x0000000020000e4c                end = __heap_start__
+                0x0000000020000e4c                _end = end
+                0x0000000020000e4c                __end = end
+ *(.heap)
+                0x0000000020000e4c                __heap_end__ = .
+                0x0000000020000e4c                __HeapLimit = __heap_end__
+
+.stack          0x0000000020000e50        0x0
+                0x0000000020000e50                _stack = .
+                0x0000000020000e50                __stack = .
+ *(.stack)
+START GROUP
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a
+END GROUP
+START GROUP
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(yash_lab4_seven_segment.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 ./counter.o
+ .ARM.attributes
+                0x00000000000000af       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000000000000e8       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x000000000000011c       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000150       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000184       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001b8       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001ec       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000000000000220       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x0000000000000254       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+ .ARM.attributes
+                0x0000000000000288       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+ .ARM.attributes
+                0x00000000000002bc       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000000000002f0       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000324       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000358       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000000000000038c       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000000003c0       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000003f4       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x0000000000000428       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000000448       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000000047c       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000000000004b0       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000000004d0       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x0000000000000504       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000538       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000000000000056c       0x3b /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x00000000000005a7       0x3b /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x00000000000005e2       0x3b /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x000000000000061d       0x3b /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x0000000000000658       0x3b /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000000000000693       0x22 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000006b5       0x22 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000000006d7       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000000000000070b       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x000000000000073f       0x22 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x0000000000000000       0xee
+ .comment       0x0000000000000000       0x7e ./counter.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x000000000000007e       0x70 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(gpio.o)
+                                         0x71 (size before relaxing)
+ .comment       0x00000000000000ee       0x71 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x00000000000000ee       0x71 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(sysctl.o)
+ .comment       0x00000000000000ee       0x71 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x00000000000000ee       0x71 /home/yashash/ti/TivaWare_C_Series-2.1.4.178/driverlib/gcc/libdriver.a(cpu.o)
+
+.debug_info     0x0000000000000000      0xc14
+ .debug_info    0x0000000000000000      0xa87 ./counter.o
+ .debug_info    0x0000000000000a87      0x18d ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_abbrev   0x0000000000000000      0x316
+ .debug_abbrev  0x0000000000000000      0x24c ./counter.o
+ .debug_abbrev  0x000000000000024c       0xca ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_aranges  0x0000000000000000       0x70
+ .debug_aranges
+                0x0000000000000000       0x38 ./counter.o
+ .debug_aranges
+                0x0000000000000038       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_ranges   0x0000000000000000       0x50
+ .debug_ranges  0x0000000000000000       0x28 ./counter.o
+ .debug_ranges  0x0000000000000028       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_line     0x0000000000000000      0x470
+ .debug_line    0x0000000000000000      0x2ed ./counter.o
+ .debug_line    0x00000000000002ed      0x183 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_str      0x0000000000000000      0x6bd
+ .debug_str     0x0000000000000000      0x602 ./counter.o
+                                        0x675 (size before relaxing)
+ .debug_str     0x0000000000000602       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x265 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x7cc
+ .debug_frame   0x0000000000000000       0x90 ./counter.o
+ .debug_frame   0x0000000000000090       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x000000000000010c       0x30 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atoi.o)
+ .debug_frame   0x000000000000013c       0x28 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000164       0x2c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000190       0x38 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000001c8       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000001e8       0x9c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strstr.o)
+ .debug_frame   0x0000000000000284       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok.o)
+ .debug_frame   0x00000000000002a4       0x48 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtok_r.o)
+ .debug_frame   0x00000000000002ec       0x98 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strtol.o)
+ .debug_frame   0x0000000000000384       0x5c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000003e0       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000400       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000434       0x6c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000000000004a0       0xb0 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000550       0x4c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x000000000000059c       0x38 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000005d4       0x30 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strchr.o)
+ .debug_frame   0x0000000000000604       0x68 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x000000000000066c       0x3c /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000000000006a8       0x34 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000006dc       0xac /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000788       0x24 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000000007ac       0x20 /home/yashash/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a(_exit.o)
